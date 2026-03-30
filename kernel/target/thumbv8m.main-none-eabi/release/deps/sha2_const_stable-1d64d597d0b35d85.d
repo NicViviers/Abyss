@@ -1,0 +1,10 @@
+/home/nicholas/IdeaProjects/Abyss/kernel/target/thumbv8m.main-none-eabi/release/deps/sha2_const_stable-1d64d597d0b35d85.d: /home/nicholas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-const-stable-0.1.0/src/lib.rs /home/nicholas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-const-stable-0.1.0/src/constants.rs /home/nicholas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-const-stable-0.1.0/src/sha.rs /home/nicholas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-const-stable-0.1.0/src/util.rs
+
+/home/nicholas/IdeaProjects/Abyss/kernel/target/thumbv8m.main-none-eabi/release/deps/libsha2_const_stable-1d64d597d0b35d85.rlib: /home/nicholas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-const-stable-0.1.0/src/lib.rs /home/nicholas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-const-stable-0.1.0/src/constants.rs /home/nicholas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-const-stable-0.1.0/src/sha.rs /home/nicholas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-const-stable-0.1.0/src/util.rs
+
+/home/nicholas/IdeaProjects/Abyss/kernel/target/thumbv8m.main-none-eabi/release/deps/libsha2_const_stable-1d64d597d0b35d85.rmeta: /home/nicholas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-const-stable-0.1.0/src/lib.rs /home/nicholas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-const-stable-0.1.0/src/constants.rs /home/nicholas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-const-stable-0.1.0/src/sha.rs /home/nicholas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-const-stable-0.1.0/src/util.rs
+
+/home/nicholas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-const-stable-0.1.0/src/lib.rs:
+/home/nicholas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-const-stable-0.1.0/src/constants.rs:
+/home/nicholas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-const-stable-0.1.0/src/sha.rs:
+/home/nicholas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-const-stable-0.1.0/src/util.rs:

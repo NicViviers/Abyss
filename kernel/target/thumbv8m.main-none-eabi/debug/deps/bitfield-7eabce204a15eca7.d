@@ -1,0 +1,5 @@
+/home/nicholas/IdeaProjects/Abyss/kernel/target/thumbv8m.main-none-eabi/debug/deps/bitfield-7eabce204a15eca7.d: /home/nicholas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitfield-0.13.2/src/lib.rs
+
+/home/nicholas/IdeaProjects/Abyss/kernel/target/thumbv8m.main-none-eabi/debug/deps/libbitfield-7eabce204a15eca7.rmeta: /home/nicholas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitfield-0.13.2/src/lib.rs
+
+/home/nicholas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitfield-0.13.2/src/lib.rs:

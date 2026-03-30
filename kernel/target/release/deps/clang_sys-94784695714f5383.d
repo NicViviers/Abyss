@@ -1,0 +1,14 @@
+/home/nicholas/IdeaProjects/Abyss/kernel/target/release/deps/clang_sys-94784695714f5383.d: /home/nicholas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.8.1/src/lib.rs /home/nicholas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.8.1/src/support.rs /home/nicholas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.8.1/src/link.rs /home/nicholas/IdeaProjects/Abyss/kernel/target/release/build/clang-sys-2b0a82b00fa90353/out/macros.rs /home/nicholas/IdeaProjects/Abyss/kernel/target/release/build/clang-sys-2b0a82b00fa90353/out/common.rs /home/nicholas/IdeaProjects/Abyss/kernel/target/release/build/clang-sys-2b0a82b00fa90353/out/dynamic.rs
+
+/home/nicholas/IdeaProjects/Abyss/kernel/target/release/deps/libclang_sys-94784695714f5383.rlib: /home/nicholas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.8.1/src/lib.rs /home/nicholas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.8.1/src/support.rs /home/nicholas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.8.1/src/link.rs /home/nicholas/IdeaProjects/Abyss/kernel/target/release/build/clang-sys-2b0a82b00fa90353/out/macros.rs /home/nicholas/IdeaProjects/Abyss/kernel/target/release/build/clang-sys-2b0a82b00fa90353/out/common.rs /home/nicholas/IdeaProjects/Abyss/kernel/target/release/build/clang-sys-2b0a82b00fa90353/out/dynamic.rs
+
+/home/nicholas/IdeaProjects/Abyss/kernel/target/release/deps/libclang_sys-94784695714f5383.rmeta: /home/nicholas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.8.1/src/lib.rs /home/nicholas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.8.1/src/support.rs /home/nicholas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.8.1/src/link.rs /home/nicholas/IdeaProjects/Abyss/kernel/target/release/build/clang-sys-2b0a82b00fa90353/out/macros.rs /home/nicholas/IdeaProjects/Abyss/kernel/target/release/build/clang-sys-2b0a82b00fa90353/out/common.rs /home/nicholas/IdeaProjects/Abyss/kernel/target/release/build/clang-sys-2b0a82b00fa90353/out/dynamic.rs
+
+/home/nicholas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.8.1/src/lib.rs:
+/home/nicholas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.8.1/src/support.rs:
+/home/nicholas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.8.1/src/link.rs:
+/home/nicholas/IdeaProjects/Abyss/kernel/target/release/build/clang-sys-2b0a82b00fa90353/out/macros.rs:
+/home/nicholas/IdeaProjects/Abyss/kernel/target/release/build/clang-sys-2b0a82b00fa90353/out/common.rs:
+/home/nicholas/IdeaProjects/Abyss/kernel/target/release/build/clang-sys-2b0a82b00fa90353/out/dynamic.rs:
+
+# env-dep:OUT_DIR=/home/nicholas/IdeaProjects/Abyss/kernel/target/release/build/clang-sys-2b0a82b00fa90353/out

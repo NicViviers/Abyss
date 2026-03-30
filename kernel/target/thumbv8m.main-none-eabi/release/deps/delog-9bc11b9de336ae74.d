@@ -1,0 +1,11 @@
+/home/nicholas/IdeaProjects/Abyss/kernel/target/thumbv8m.main-none-eabi/release/deps/delog-9bc11b9de336ae74.d: /home/nicholas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/delog-0.1.8/src/lib.rs /home/nicholas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/delog-0.1.8/src/hex.rs /home/nicholas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/delog-0.1.8/src/logger.rs /home/nicholas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/delog-0.1.8/src/macros.rs /home/nicholas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/delog-0.1.8/src/render.rs
+
+/home/nicholas/IdeaProjects/Abyss/kernel/target/thumbv8m.main-none-eabi/release/deps/libdelog-9bc11b9de336ae74.rlib: /home/nicholas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/delog-0.1.8/src/lib.rs /home/nicholas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/delog-0.1.8/src/hex.rs /home/nicholas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/delog-0.1.8/src/logger.rs /home/nicholas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/delog-0.1.8/src/macros.rs /home/nicholas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/delog-0.1.8/src/render.rs
+
+/home/nicholas/IdeaProjects/Abyss/kernel/target/thumbv8m.main-none-eabi/release/deps/libdelog-9bc11b9de336ae74.rmeta: /home/nicholas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/delog-0.1.8/src/lib.rs /home/nicholas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/delog-0.1.8/src/hex.rs /home/nicholas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/delog-0.1.8/src/logger.rs /home/nicholas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/delog-0.1.8/src/macros.rs /home/nicholas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/delog-0.1.8/src/render.rs
+
+/home/nicholas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/delog-0.1.8/src/lib.rs:
+/home/nicholas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/delog-0.1.8/src/hex.rs:
+/home/nicholas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/delog-0.1.8/src/logger.rs:
+/home/nicholas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/delog-0.1.8/src/macros.rs:
+/home/nicholas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/delog-0.1.8/src/render.rs:

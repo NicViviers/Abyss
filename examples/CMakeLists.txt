@@ -1,0 +1,8 @@
+add_subdirectory(${CMAKE_CURRENT_LIST_DIR}/amoled)
+add_subdirectory(${CMAKE_CURRENT_LIST_DIR}/battery_read)
+add_subdirectory(${CMAKE_CURRENT_LIST_DIR}/hello_world)
+add_subdirectory(${CMAKE_CURRENT_LIST_DIR}/lvgl)
+add_subdirectory(${CMAKE_CURRENT_LIST_DIR}/qmi8658_raw_out)
+add_subdirectory(${CMAKE_CURRENT_LIST_DIR}/rtc_pcf85063)
+add_subdirectory(${CMAKE_CURRENT_LIST_DIR}/sd_card_spi)
+add_subdirectory(${CMAKE_CURRENT_LIST_DIR}/abyss)
