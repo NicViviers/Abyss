@@ -1,3 +1,0 @@
-cargo:rustc-link-search=/home/nicholas/IdeaProjects/Abyss/kernel/target/thumbv8m.main-none-eabi/release/build/rp235x-pac-60cbe0e5871a2fd7/out
-cargo:rerun-if-changed=device.x
-cargo:rerun-if-changed=build.rs

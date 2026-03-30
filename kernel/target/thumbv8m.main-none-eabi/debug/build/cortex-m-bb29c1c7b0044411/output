@@ -1,5 +1,0 @@
-cargo:rustc-link-lib=static=cortex-m
-cargo:rustc-link-search=/home/nicholas/IdeaProjects/Abyss/kernel/target/thumbv8m.main-none-eabi/debug/build/cortex-m-bb29c1c7b0044411/out
-cargo:rustc-cfg=cortex_m
-cargo:rustc-cfg=armv8m
-cargo:rustc-cfg=armv8m_main
